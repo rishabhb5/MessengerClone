@@ -1,0 +1,9 @@
+SwiftUI MVVM App
+
+- Folders for every part of the UI
+- @State boolean variables and toggle() based on button press -> .fullScreenCover (partial full screen new view)
+- NavigationStack, NavigationLink (for non-value based navigation), ScrollView + toolbar, VStack, HStack, Image, Text, TextField + SecureField for user input, List
+- @Environment(\.dismiss) var dismiss
+- Custom divider line like Divider() using Rectangle()
+- Styling
+- List is scrollable by default
